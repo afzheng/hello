@@ -10,8 +10,19 @@ namespace hello
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("hello");
             //ssh-keygen -t rsa -C "afzheng@live.com"
+            //G:/Workspaces/git/.ssh/
+            Console.WriteLine("hello");
+            //ssh-keygen -t rsa -C "afzheng@live.com"
+            //G:/Workspaces/git/.ssh/
+            Console.WriteLine("hello");
+            //ssh-keygen -t rsa -C "afzheng@live.com"
+            //G:/Workspaces/git/.ssh/
+            Console.WriteLine("hello");
+            //ssh-keygen -t rsa -C "afzheng@live.com"
+
             //G:/Workspaces/git/.ssh/
         }
     }
