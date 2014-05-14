@@ -8,22 +8,31 @@ namespace hello
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+   //     static void Main(string[] args)
+   //     {
+    //        Console.WriteLine("hello");
+            //ssh-keygen -t rsa -C "afzheng@live.com"
+            //G:/Workspaces/git/.ssh/
+    //        int? x = GetNullableType();
+    //        if (x == null)
+    //        {
+    //            Console.WriteLine("x is null");
+    //        }
+    //        else if (x < 0)
+    //        {
+     //           Console.WriteLine("x is smaller then 0");
+     //       }
+     //       else
+      //      {
+      //          Console.WriteLine("x is bigger then 0");
+       //     }
+      //      Console.ReadLine();
+  //      }
 
-            Console.WriteLine("hello");
-            //ssh-keygen -t rsa -C "afzheng@live.com"
-            //G:/Workspaces/git/.ssh/
-            Console.WriteLine("hello");
-            //ssh-keygen -t rsa -C "afzheng@live.com"
-            //G:/Workspaces/git/.ssh/
-            Console.WriteLine("hello");
-            //ssh-keygen -t rsa -C "afzheng@live.com"
-            //G:/Workspaces/git/.ssh/
-            Console.WriteLine("hello");
-            //ssh-keygen -t rsa -C "afzheng@live.com"
+   //     private static int? GetNullableType()
+   //     {
+   //         return 0;
+   //     }
 
-            //G:/Workspaces/git/.ssh/
-        }
     }
 }
